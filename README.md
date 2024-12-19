@@ -4,6 +4,8 @@ Bem-vindo ao meu repositório de projetos em **Node.js**, onde exploro ferrament
 
 ## Estrutura dos Projetos
 
+##Cada branch irá conter um projeto##
+
 Os projetos estão organizados em subpastas e categorizados pelo nível de complexidade ou pela ferramenta/framework utilizado.  
 
 ### Tecnologias e Conceitos Abordados:
