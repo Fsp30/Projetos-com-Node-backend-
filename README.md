@@ -10,10 +10,11 @@ Os projetos estão organizados em subpastas e categorizados pelo nível de compl
 
 - **Node.js**
 - **Express**  
-- **Fastify**  
+- **Fastify**
+- **Zod**  
 - **NestJS**  
 - **Swagger** (Documentação de APIs)  
-- **SolidJS (Server-Side Rendering)**  
+- **Princípios SOLID**  
 - **TypeScript**  
 - **JavaScript**  
 - Boas práticas de código e arquitetura  
