@@ -18,7 +18,7 @@ Este projeto é um exemplo simples de um servidor criado com o framework **Expre
 
 3. Execute o servidor:
    ```bash
-   node app.js
+   npm run dev
    ```
 
 4. O servidor estará rodando em:
