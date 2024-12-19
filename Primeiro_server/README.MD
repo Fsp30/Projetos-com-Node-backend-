@@ -38,7 +38,7 @@ const app = express();
 
 app.use(express.json());
 
-app.get('', (req, res) => {
+app.get('/', (req, res) => {
   return 'Primeiro servidor do projeto 😁';
 });
 
