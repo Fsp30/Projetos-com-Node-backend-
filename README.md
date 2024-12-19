@@ -25,35 +25,6 @@ Os projetos estão organizados em subpastas e categorizados pelo nível de compl
 - Autenticação e autorização  
 - Testes automatizados  
 
----
-
-## Lista de Projetos
-
-1. **[Projeto Básico em Node.js](./01-projeto-basico/)**  
-   - Introdução ao Node.js e manipulação de arquivos.  
-   - Uso de módulos nativos (`fs`, `path`).  
-
-2. **[API RESTful com Express](./02-api-express/)**  
-   - CRUD básico com Express.js.  
-   - Configuração de rotas e middlewares.  
-
-3. **[Fastify com Performance](./03-fastify/)**  
-   - Exploração do framework Fastify.  
-   - Foco em performance e integração com bancos de dados.  
-
-4. **[NestJS com TypeScript](./04-nestjs/)**  
-   - Criação de uma aplicação modular e escalável.  
-   - Utilização de decorators e injeção de dependências.  
-
-5. **[Documentação com Swagger](./05-swagger/)**  
-   - Adição de documentação interativa para APIs.  
-   - Uso de Swagger e OpenAPI Specification.  
-
-6. **[Conceitos Avançados](./06-conceitos-avancados/)**  
-   - Arquitetura hexagonal, DDD e clean code.  
-   - Testes com Jest e integração contínua.  
-
----
 
 ## Como Executar os Projetos
 
